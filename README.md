@@ -1,4 +1,4 @@
-# Kaggle_Sea-Lions-Counting
+# Sea Lion Population Counting
 
 ![model architecture](https://github.com/yan-roo/Kaggle_Sea-Lions-Counting/blob/master/img/model.jpg)
 
