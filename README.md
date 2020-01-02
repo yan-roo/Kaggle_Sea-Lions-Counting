@@ -1,5 +1,6 @@
 # Kaggle_Sea-Lions-Counting
 
+![model architecture](https://github.com/yan-roo/Kaggle_Sea-Lions-Counting/blob/master/img/model.jpg)
 
 This is our solution on [NOAA Fisheries Steller Sea Lion Population Count](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count)<br>
 Based on [@outrunner - The 1st-place winner in the competition](https://www.kaggle.com/outrunner/use-keras-to-count-sea-lions)
@@ -46,7 +47,7 @@ Kaggle_Sea-Lions-Counting
   +- use-keras-to-count-sea-lions.ipynb
   ```
   
-Create new directories and use [patch-image-csv](https://github.com/yan-roo/Kaggle_Sea-Lions-Counting/blob/master/patch-image-csv.ipynb)to create cropped images
+Create new directories and use [patch-image-csv](https://github.com/yan-roo/Kaggle_Sea-Lions-Counting/blob/master/patch-image-csv.ipynb) to create cropped images
 ```
 $ mkdir 300x300
 $ cd 300x300/
